@@ -1,0 +1,37 @@
+[
+    {
+        "name" : "Arpit Shrotriya",
+        "age" : "19",
+        "height" : "177",
+        "gender" : "Male",
+        "hair_color" : "Black"
+    },
+    {
+        "name" : "Rohit Dev",
+        "age" : "19",
+        "height" : "176",
+        "gender" : "Male",
+        "hair_color" : "Black"
+    },
+    {
+        "name" : "Pranajal Kandhari",
+        "age" : "20",
+        "height" : "175",
+        "gender" : "Male",
+        "hair_color" : "Black"
+    },
+    {
+        "name" : "Rishik Gupta",
+        "age" : "19",
+        "height" : "177",
+        "gender" : "Male",
+        "hair_color" : "Black"
+    },
+    {
+        "name" : "Chiranjeev Arya",
+        "age" : "19",
+        "height" : "178",
+        "gender" : "Male",
+        "hair_color" : "Black"
+    }
+]
